@@ -2,7 +2,7 @@
 
 Boost your productivity with this sleek and simple **Pomodoro Timer** built using **HTML, CSS, and JavaScript**. This timer follows the famous **Pomodoro Technique** to help you stay focused and organized during your work sessions.
 
-![Pomodoro Timer Screenshot](./preview.jpeg)  
+![Pomodoro Timer Screenshot](./preview.jpg)  
 <small>_Screenshot of the Timer in action_</small>
 
 ## 🚀 Features
